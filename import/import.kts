@@ -1,6 +1,6 @@
 //package com.cimanow
 //
-//import com.lagradost.cloudstream3.AcraApplication.Companion.context
+//import com.lagradost.cloudstream3.CloudStreamApp.Companion.context
 //import android.os.Handler
 //import android.util.Log
 //import kotlin.math.min
