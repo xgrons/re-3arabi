@@ -1,7 +1,7 @@
 {
-    "name": "Mega Universe Repository",
-    "id": "mega.universe",
-    "description": "Mega Universe plugins repository",
+    "name": "SkyStream Universe Repository",
+    "id": "sky.universe",
+    "description": "SkyStream Universe plugins repository",
     "manifestVersion": 1,
     "repos": [
         "https://raw.githubusercontent.com/xgrons/re-3arabi/refs/heads/main/repo.json"
